@@ -1,4 +1,4 @@
-# 英听学院 English Listening MVP
+# ShadowLoop English Listening MVP
 
 一个纯前端英语精听 / 跟读练习网站 Demo。
 
@@ -39,7 +39,7 @@ No backend, database, or build step is required.
 ## File Structure
 
 ```text
-english-listening-single/
+english-listening/
 ├── index.html
 └── README.md
 ```
