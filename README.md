@@ -32,6 +32,7 @@ This project is a single-file frontend demo.
 - JavaScript
 - YouTube IFrame Player API
 - Browser localStorage
+- Imported subtitles persist between browser sessions
 - Browser MediaRecorder API
 
 No backend, database, or build step is required.
